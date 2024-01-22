@@ -1,1 +1,1 @@
-# Homework repository for UniOulu Mobile Computing course
+## Homework repository for UniOulu Mobile Computing course
