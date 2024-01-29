@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "MobileComputing"
-include(":hw1")
+include(":app")
